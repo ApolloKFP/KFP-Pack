@@ -1,5 +1,5 @@
 ![](respack.png)
-# Kiara Fried Phoenix Pack (MC 1.16+)
+# Kiara Fried Phoenix Pack (MC 1.20+)
 [![Discord](https://img.shields.io/badge/Discord-join-blue?style=flat-square)](https://discord.gg/HrsGZ8B9bT)
 
 a Kiara Takanashi (Hololive English) themed Resource Pack for Minecraft - also contains other Hololive references.
@@ -13,7 +13,7 @@ a Kiara Takanashi (Hololive English) themed Resource Pack for Minecraft - also c
 * Kiara Foods: Changes the cooked chicken to a KFP wings bucket, and the backed potatoe to KFP chips/french fries.
 * Kiara Elytra: KFP coloured elytra (Credits to [ReducedTo21](https://twitter.com/ReducedTo21))
 * Kiara Swords: Diamond and Netherite Sword are KFP themed.
-* Kiara Music: Select music discs are replaced with songs by or featuring [Takanashi Kiara](https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww).
+* Kiara Music: Most music discs are replaced with songs by or featuring [Takanashi Kiara](https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww).
 * Kiara Loading Screen (Optifine only): Replaces the Mojang logo with a KFP one. 
 * Kiara Painting: The painting's on the wall. It's KFP! Remember that you mustn't ever leave.
 * Ollie Zombie and Gura Drowned skin (Credits to [ReducedTo21](https://twitter.com/ReducedTo21))
