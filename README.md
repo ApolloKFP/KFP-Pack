@@ -17,6 +17,8 @@ a Kiara Takanashi (Hololive English) themed Resource Pack for Minecraft - also c
 * Kiara Loading Screen (Optifine only): Replaces the Mojang logo with a KFP one. 
 * Kiara Painting: The painting's on the wall. It's KFP! Remember that you mustn't ever leave.
 * Ollie Zombie and Gura Drowned skin (Credits to [ReducedTo21](https://twitter.com/ReducedTo21))
+* Chicken Sounds are replaced with Kiara making chicken noises
+* Eating Sounds are replaced by Kiara eating sounds 
 
 ## Release
 You can find the newest Releases and pre-releases [here](https://github.com/KiaraFriedPhoenix/KFP-Pack/releases/latest)
